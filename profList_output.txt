@@ -1,0 +1,24 @@
+//definite_pairs
+CDC1: Prof4 Prof4
+cdc1: Prof5 Prof5
+
+//combination1 with respect to definite_pairs
+ELE1: Prof1 Prof2
+ele1: Prof5 Prof3
+
+//combination2 with respect to definite_pairs
+ele1: Prof3 Prof3
+ELE1: Prof1 Prof3
+
+//combination3 with respect to definite_pairs
+ele1: Prof2 Prof5
+ELE1: Prof2 Prof3
+
+//combination4 with respect to definite_pairs
+ele1: Prof1 Prof5
+ELE1: Prof3 Prof3
+
+//combination5 with respect to definite_pairs
+ele1: Prof1 Prof2
+ 
+ 

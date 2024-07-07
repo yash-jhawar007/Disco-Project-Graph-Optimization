@@ -1,0 +1,19 @@
+Prof1
+0 CDC1
+0 cdc1
+
+Prof2
+1 CDC1
+0 cdc1
+
+Prof3
+1 CDC1
+2 cdc1
+
+Prof4
+0 CDC1
+1 cdc1
+
+Prof5
+1 CDC1
+2 cdc1

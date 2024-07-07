@@ -1,0 +1,287 @@
+//definite_pairs 
+CDC2: Prof1 Prof4
+CDC3: Prof2 Prof6
+
+//combinationA with respect to definite_pairs
+CDC4: Prof3 Prof8
+
+//combination1 with respect to combinationA
+HDCDC1: Prof5 Prof9
+
+//combination1.1
+CDC1: Prof8 Prof10
+
+//combination1.11
+HDELE1: Prof9 Prof7
+HDELE2: Prof7 Prof10
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination1.12
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination1.13
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination1.14
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE1: Prof7 Prof7
+HDELE2: Prof9 Prof10
+
+//combination1.15
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination1.16
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination1.17
+ELE1: Prof9 Prof11
+ELE2: Prof11 Prof11
+
+//combination1.18
+ELE1: Prof11 Prof11
+ELE2: Prof9 Prof11
+
+
+//combination2.1 with respect to combinationA
+CDC1: Prof10 Prof10
+
+//combination2.11
+HDELE1: Prof8 Prof9
+HDELE2: Prof10 Prof7
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination2.12
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE2: Prof7 Prof7
+
+//combination2.13
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination2.14
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+
+
+//combination3 with respect to combinationA
+HDCDC1: Prof9 Prof9
+
+//combination3.1
+CDC1: Prof5 Prof10
+
+//combination3.11
+HDELE1: Prof8 Prof7
+HDELE2: Prof7 Prof10
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination3.12
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination3.13
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination3.14
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE1: Prof7 Prof7
+HDELE2: Prof8 Prof10
+
+//combination3.15
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination3.16
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination3.17
+ELE1: Prof8 Prof11
+ELE2: Prof11 Prof11
+
+//combination3.18
+ELE1: Prof11 Prof11
+ELE2: Prof8 Prof11
+
+
+//combination4 with respect to combinationA
+HDCDC1: Prof9 Prof9
+
+//combination4.1
+CDC1: Prof10 Prof10
+
+//combination4.11
+HDELE1: Prof5 Prof8
+HDELE2: Prof10 Prof7
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination4.12
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE2: Prof7 Prof7
+
+//combination4.13
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination4.14
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+
+
+
+
+
+//combinationB with respect to definite_pairs
+CDC4: Prof8 Prof8
+
+//combination5 with respect to combinationB
+HDCDC1: Prof3 Prof9
+
+//combination5.1
+CDC1: Prof5 Prof10
+
+//combination5.11
+HDELE1: Prof9 Prof7
+HDELE2: Prof7 Prof10
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.12
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination5.13
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.14
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE1: Prof7 Prof7
+HDELE2: Prof9 Prof10
+
+//combination5.15
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.16
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination5.17
+ELE1: Prof9 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.18
+ELE1: Prof11 Prof11
+ELE2: Prof9 Prof11
+
+
+
+//combination5.2 with respect to combinationB
+CDC1: Prof10 Prof10
+HDELE1: Prof5 Prof9
+HDELE2: Prof10 Prof7
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.21
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE2: Prof7 Prof7
+
+//combination5.22
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination5.23
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+
+
+//combination6 with respect to combinationB
+HDCDC1: Prof9 Prof9
+
+//combination6.1 
+CDC1: Prof3 Prof10
+
+//combination6.11
+HDELE1: Prof5 Prof7
+HDELE2: Prof7 Prof10
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.12
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination6.13
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.14
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE1: Prof7 Prof7
+HDELE2: Prof5 Prof10
+
+//combination6.15
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.16
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+HDELE2: Prof10 Prof10
+
+//combination6.17
+ELE1: Prof5 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.18
+ELE1: Prof11 Prof11
+ELE2: Prof5 Prof11
+
+
+//combination6.2 
+CDC1: Prof10 Prof10
+
+//combination6.21
+HDELE1: Prof3 Prof5
+HDELE2: Prof10 Prof7
+ELE1: Prof7 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.22
+ELE1: Prof11 Prof11
+ELE2: Prof7 Prof11
+HDELE2: Prof7 Prof7
+
+//combination6.23
+ELE1: Prof10 Prof11
+ELE2: Prof11 Prof11
+
+//combination6.24
+ELE1: Prof11 Prof11
+ELE2: Prof10 Prof11
+ 
+ 

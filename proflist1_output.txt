@@ -1,0 +1,72 @@
+//definite_pairs
+HD_CDC2: Prof2 Prof3
+HD_CDC3: Prof4 Prof5
+HD_CDC1: Prof6 Prof9
+CDC1: Prof12 Prof13
+CDC2: Prof13 Prof14
+CDC3: Prof14 Prof15
+CDC4: Prof15 Prof16
+CDC5: Prof16 Prof17
+CDC6: Prof17 Prof18
+CDC7: Prof18 Prof19
+CDC8: Prof19 Prof19
+ELE5: Prof1 Prof8
+HD_ELE1: Prof7 Prof11
+HD_ELE2: Prof10 Prof21
+HD_ELE3: Prof21 Prof21
+ELE3: Prof22 Prof22
+ELE1: Prof20 Prof20
+HD_ELE3: Prof21 Prof22
+ELE4: Prof22 Prof22
+
+//combination1 with respect to definite_pairs
+ELE3: Prof20 Prof20
+HD_ELE3: Prof22 Prof22
+ELE4: Prof21 Prof21
+
+//combination2 with respect to definite_pairs
+ELE3: Prof20 Prof20
+HD_ELE2: Prof10 Prof22
+HD_ELE3: Prof22 Prof22
+
+//combination3 with respect to definite_pairs
+ELE3: Prof21 Prof21
+ELE4: Prof20 Prof20
+HD_ELE3: Prof22 Prof21
+
+//combination4 with respect to definite_pairs
+ELE4: Prof21 Prof21
+ELE3: Prof20 Prof20
+HD_ELE3: Prof21 Prof21
+
+//combination5 with respect to definite_pairs
+ELE4: Prof22 Prof22
+ELE3: Prof20 Prof20
+HD_ELE2: Prof21 Prof21
+HD_ELE3: Prof10 Prof20
+
+//combination6 with respect to definite_pairs
+ELE4: Prof20 Prof20
+ELE3: Prof22 Prof22
+HD_ELE3: Prof10 Prof22
+
+//combination7.1 with respect to definite_pairs
+ELE4: Prof22 Prof22
+ELE3: Prof20 Prof20
+HD_ELE3: Prof20 Prof20
+//combination7.2 
+HD_ELE3: Prof20 Prof22
+//combination7.3
+HD_ELE3: Prof22 Prof22
+
+//combination8 with respect to definite_pairs
+HD_ELE2: Prof21 Prof22
+HD_ELE3: Prof10 Prof22
+ELE4: Prof21 Prof21
+ELE3: Prof20 Prof20
+
+//combination9 with respect to definite_pairs
+HD_ELE3: Prof10 Prof20
+ELE3: Prof22 Prof22
+ELE4: Prof20 Prof20
+ELE2: Prof21 Prof21
